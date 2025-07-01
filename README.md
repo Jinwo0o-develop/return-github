@@ -6,6 +6,9 @@
 다시 할 수 있는 상황도 됐고, 쉬었던 만큼 앞으로의 계획을 재정비하는 시간이 있었으니 잘못을 인지하고 오늘부터라도 꾸준히 쓰는게 중요하겠다.<br>
 
 # 수행한 작업
-![](C:\Users\jinwoo\Desktop\포트폴리오 사진\2025-07-01 작성)<br>
+빠르게 사진보고 넘어가보자.
+![](https://github.com/user-attachments/assets/d940ddfe-5fdc-4ab3-845e-bfbdba3913b8)<br>
+코드잇에서 풀었던 문제, self와 같이 cls을 배우고 써보는 문제<br>
+원래 사진 사이에 껴있는 말처럼 나의 문제, 나아질 점 등을 적어두고 깃허브에 가공해서 올린다.<br>
 ![](C:\Users\jinwoo\Desktop\포트폴리오 사진\2025-07-01 작성)<br>
 ![](C:\Users\jinwoo\Desktop\포트폴리오 사진\2025-07-01 작성)<br>
