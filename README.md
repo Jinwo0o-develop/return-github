@@ -8,7 +8,9 @@
 # 수행한 작업
 빠르게 사진보고 넘어가보자.
 ![](https://github.com/user-attachments/assets/d940ddfe-5fdc-4ab3-845e-bfbdba3913b8)<br>
-코드잇에서 풀었던 문제, self와 같이 cls을 배우고 써보는 문제<br>
+코드잇에서 강의를 듣고 해봤던 문제, self와 같이 cls을 배우고 써보는 문제이다.<br>
 원래 사진 사이에 껴있는 말처럼 나의 문제, 나아질 점 등을 적어두고 깃허브에 가공해서 올린다.<br>
-![](C:\Users\jinwoo\Desktop\포트폴리오 사진\2025-07-01 작성)<br>
+![image](https://github.com/user-attachments/assets/4309a87d-9510-4dd0-a439-271f2326896e)<br>
+이것도 코드잇에서 블로그 문제를 풀어본 것이다.
+
 ![](C:\Users\jinwoo\Desktop\포트폴리오 사진\2025-07-01 작성)<br>
